@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\lab1">
+      <UniqueIdentifier>{3fae1736-bfc4-4f0b-b99f-11c15c2c5c2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\lab2">
+      <UniqueIdentifier>{8b9cd30e-16ff-4864-b6f0-c80bd880a611}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\lab3">
+      <UniqueIdentifier>{ce354044-cc60-4155-b44e-d29da4ae96ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\lab1">
+      <UniqueIdentifier>{ae30a271-93e1-452b-97a1-ed720149cc7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\lab2">
+      <UniqueIdentifier>{dbe41d98-db20-437f-84d5-efabf95d0bf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\lab3">
+      <UniqueIdentifier>{4981fddc-fddb-4862-bd2c-12193cfce91a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\lab1">
+      <UniqueIdentifier>{b245d648-c333-4f23-99ad-2fb87acce8a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\lab2">
+      <UniqueIdentifier>{6796bee5-0e99-4112-b6fd-f176b0b5d68a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\lab3">
+      <UniqueIdentifier>{c6950813-9867-4e62-84ed-4d5c2fba0845}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\lab4">
+      <UniqueIdentifier>{739bb709-d3d2-4aaf-8b45-fed53a5c80d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\lab4">
+      <UniqueIdentifier>{40ee3b1e-a66c-4eed-bfb8-aae0211a36c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\lab4">
+      <UniqueIdentifier>{436e787f-f779-4d8e-9359-52e076abc20e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\lab5">
+      <UniqueIdentifier>{9b1b5c67-def6-4682-8ad5-a0befcbaa566}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\lab5">
+      <UniqueIdentifier>{e5a898e0-73f4-4104-9d67-a999c7910e19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\lab5">
+      <UniqueIdentifier>{226baeec-db37-4659-991d-f52598773e2b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ООП-3 лаба.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="funcs.cpp">
+      <Filter>Файлы ресурсов\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="ООП-1 лаба.cpp">
+      <Filter>Исходные файлы\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="ООП-2 лаба.cpp">
+      <Filter>Исходные файлы\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="MovieNodeWithGenre.cpp">
+      <Filter>Файлы ресурсов\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="functions.cpp">
+      <Filter>Файлы ресурсов\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="MovieNode.cpp">
+      <Filter>Файлы ресурсов\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="FlightNode.cpp">
+      <Filter>Файлы ресурсов\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeNode.cpp">
+      <Filter>Файлы ресурсов\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleNode.cpp">
+      <Filter>Файлы ресурсов\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleNode.cpp">
+      <Filter>Файлы ресурсов\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="ООП.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckInt.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="BookNode.cpp">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="RouteNode.cpp">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="PointNode.cpp">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleNode3.cpp">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeNode3.cpp">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="FlightNode3.cpp">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="SongNode3.cpp">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="AlbumNode.cpp">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="BandNode.cpp">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="RingNode.cpp">
+      <Filter>Файлы ресурсов\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="ООП-4 лаба.cpp">
+      <Filter>Исходные файлы\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="DoubleValidator.cpp">
+      <Filter>Файлы ресурсов\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Файлы ресурсов\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="GeometricProgram.cpp">
+      <Filter>Файлы ресурсов\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="ООП-5 лаба.cpp">
+      <Filter>Исходные файлы\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonNode.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentNode.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="TeacherNode.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="Post.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="PaidUser.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="DiscountBase.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="CertificateDiscount.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="Product.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="PercentDiscount.cpp">
+      <Filter>Файлы ресурсов\lab5</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="funcs.h">
+      <Filter>Файлы заголовков\lab1</Filter>
+    </ClInclude>
+    <ClInclude Include="MovieNodeWithGenre.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleNode.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="SongNode.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeNode.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleNode.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="ContactNode.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="DisciplineNode.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="EnumsNode.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="FlightNode.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="MovieNode.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="functions.h">
+      <Filter>Файлы заголовков\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckInt.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="BookNode.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="RouteNode.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="PointNode.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleNode3.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeNode3.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="FlightNode3.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="SongGenre.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="SongNode3.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="BandNode.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="AlbumNode.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="RingNode.h">
+      <Filter>Файлы заголовков\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleValidator.h">
+      <Filter>Файлы заголовков\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Файлы заголовков\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="GeometricProgram.h">
+      <Filter>Файлы заголовков\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="ООП-1 лаба.h">
+      <Filter>Исходные файлы\lab1</Filter>
+    </ClInclude>
+    <ClInclude Include="ООП-2 лаба.h">
+      <Filter>Исходные файлы\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="ООП-3 лаба.h">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="ООП-4 лаба.h">
+      <Filter>Исходные файлы\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="ООП-5 лаба.h">
+      <Filter>Исходные файлы\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentNode.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="TeacherNode.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="PersonNode.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="Post.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="PaidUser.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="CategoryType.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="CertificateDiscount.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="Product.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="PercentDiscount.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="DiscountBase.h">
+      <Filter>Файлы заголовков\lab5</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="RectangleAndPointUML.cd">
+      <Filter>Файлы ресурсов\lab3</Filter>
+    </None>
+  </ItemGroup>
+</Project>
